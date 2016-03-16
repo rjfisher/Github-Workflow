@@ -1,0 +1,50 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "https://enterprise.github.com/assets/aws/jetpack-octocat-airlock-b1d6ad7f41f88e5207896fe1f63ca30b.jpg"
+        }
+    },
+    {
+        "filename": "github.md",
+        "attr": {
+            "data-background": "https://enterprise.github.com/assets/aws/jetpack-octocat-airlock-b1d6ad7f41f88e5207896fe1f63ca30b.jpg"
+        }
+    },
+    {
+        "filename": "git-flow.md",
+        "attr": {
+            "data-background": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-126755.jpg"
+        }
+    },
+    {
+        "filename": "git-kraken.md",
+        "attr": {
+            "data-background": "http://www.gitkraken.com/video/ink.jpg"
+        }
+    },
+    {
+        "filename": "project-management.md",
+        "attr": {
+            "data-background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRShEv2kQAeh6ghg0MjA9Jz4TpQV45cHAi6s-77m5UbdQXKv9usA"
+        }
+    },
+    {
+        "filename": "tools-for-qa.md",
+        "attr": {
+            "data-background": "http://www.freecreatives.com/wp-content/uploads/2016/02/High-Quality-Dark-Wood-Texture.jpg"
+        }
+    },
+    {
+        "filename": "summary.md",
+        "attr": {
+            "data-background": "http://www-cdn.terminalfour.com/media/sky-night-stars-pexels.jpg"
+        }
+    },
+    {
+        "filename": "questions.md",
+        "attr": {
+            "data-background": "http://1.bp.blogspot.com/-HhDqcf9KXsE/Uh95ro0IQsI/AAAAAAAAGJk/qwZv8sNp-tw/s1600/Background-Question-Marks3.jpg"
+        }
+    }
+]
