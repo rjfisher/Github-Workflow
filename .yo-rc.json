@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Github Workflows",
+    "packageVersion": "0.0.1",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "rjfisher",
+    "githubRepository": "Github-Workflow"
+  }
+}
