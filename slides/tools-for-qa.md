@@ -1,4 +1,4 @@
-##  Toolss for QA
+##  Tools for QA
 
 Tools for better code.
 
